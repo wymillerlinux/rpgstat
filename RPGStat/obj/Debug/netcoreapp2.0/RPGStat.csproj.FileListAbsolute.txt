@@ -1,0 +1,10 @@
+/home/wyatt/Source/RPGStat/RPGStat/bin/Debug/netcoreapp2.0/RPGStat.deps.json
+/home/wyatt/Source/RPGStat/RPGStat/bin/Debug/netcoreapp2.0/RPGStat.runtimeconfig.json
+/home/wyatt/Source/RPGStat/RPGStat/bin/Debug/netcoreapp2.0/RPGStat.runtimeconfig.dev.json
+/home/wyatt/Source/RPGStat/RPGStat/bin/Debug/netcoreapp2.0/RPGStat.dll
+/home/wyatt/Source/RPGStat/RPGStat/bin/Debug/netcoreapp2.0/RPGStat.pdb
+/home/wyatt/Source/RPGStat/RPGStat/obj/Debug/netcoreapp2.0/RPGStat.csproj.CoreCompileInputs.cache
+/home/wyatt/Source/RPGStat/RPGStat/obj/Debug/netcoreapp2.0/RPGStat.AssemblyInfoInputs.cache
+/home/wyatt/Source/RPGStat/RPGStat/obj/Debug/netcoreapp2.0/RPGStat.AssemblyInfo.cs
+/home/wyatt/Source/RPGStat/RPGStat/obj/Debug/netcoreapp2.0/RPGStat.dll
+/home/wyatt/Source/RPGStat/RPGStat/obj/Debug/netcoreapp2.0/RPGStat.pdb
