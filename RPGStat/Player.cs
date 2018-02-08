@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RPGStat
 {
@@ -31,7 +32,12 @@ namespace RPGStat
         #endregion
         
         #region Constructors
-        
+
+        public Player()
+        {
+            
+        }
+
         #endregion
 
         #region Methods
@@ -39,6 +45,14 @@ namespace RPGStat
         public void TestFunction()
         {
             Console.WriteLine("This is the Player class.");
+        }
+
+        public int NumberToBeGenerated()
+        {
+            Random random = new Random();
+            int numGenerated = random.Next(1, 3);
+
+            return numGenerated;
         }
 
         #endregion
